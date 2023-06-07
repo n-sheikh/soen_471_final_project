@@ -1,0 +1,32 @@
+DT LEN: 6
+|--- Percent of Students who are Economically Disadvantaged <= 20.45
+|   |--- Percent of Population Aged between 35 and 44 years <= 10.45
+|   |   |--- value: [89.19]
+|   |--- Percent of Population Aged between 35 and 44 years >  10.45
+|   |   |--- value: [94.95]
+|--- Percent of Students who are Economically Disadvantaged >  20.45
+|   |--- Percent of Males over 16 that are Divorced <= 12.80
+|   |   |--- Percent of Population with Scotch-Irish Ancestry <= 1.00
+|   |   |   |--- Percent of Students who are Economically Disadvantaged <= 45.10
+|   |   |   |   |--- Percent of Males over 16 that are Widowed <= 2.95
+|   |   |   |   |   |--- value: [83.49]
+|   |   |   |   |--- Percent of Males over 16 that are Widowed >  2.95
+|   |   |   |   |   |--- value: [88.91]
+|   |   |   |--- Percent of Students who are Economically Disadvantaged >  45.10
+|   |   |   |   |--- Percent of Multi-Racial, Non-Hispanic Students <= 4.35
+|   |   |   |   |   |--- value: [84.57]
+|   |   |   |   |--- Percent of Multi-Racial, Non-Hispanic Students >  4.35
+|   |   |   |   |   |--- Number of Students Enrolled in Grade 6 <= 54.00
+|   |   |   |   |   |   |--- value: [80.78]
+|   |   |   |   |   |--- Number of Students Enrolled in Grade 6 >  54.00
+|   |   |   |   |   |   |--- value: [72.70]
+|   |   |--- Percent of Population with Scotch-Irish Ancestry >  1.00
+|   |   |   |--- value: [91.58]
+|   |--- Percent of Males over 16 that are Divorced >  12.80
+|   |   |--- Percent of Students with High Needs <= 48.05
+|   |   |   |--- value: [80.77]
+|   |   |--- Percent of Students with High Needs >  48.05
+|   |   |   |--- School Accountability and Assistance Level <= 0.50
+|   |   |   |   |--- value: [76.00]
+|   |   |   |--- School Accountability and Assistance Level >  0.50
+|   |   |   |   |--- value: [66.65]

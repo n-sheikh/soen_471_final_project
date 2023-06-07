@@ -1,0 +1,71 @@
+DT LEN: 8
+|--- Percent of Students with High Needs <= 69.65
+|   |--- Percent of Students with High Needs <= 36.30
+|   |   |--- Percent of Students who are Economically Disadvantaged <= 14.15
+|   |   |   |--- Percent of Students who are Economically Disadvantaged <= 7.70
+|   |   |   |   |--- Percent of students who are Male <= 49.75
+|   |   |   |   |   |--- value: [97.51]
+|   |   |   |   |--- Percent of students who are Male >  49.75
+|   |   |   |   |   |--- value: [98.59]
+|   |   |   |--- Percent of Students who are Economically Disadvantaged >  7.70
+|   |   |   |   |--- Percent of Males over 16 that are Married <= 62.15
+|   |   |   |   |   |--- Percent of Employed Civilians in the Wholesale Industry <= 1.25
+|   |   |   |   |   |   |--- value: [97.30]
+|   |   |   |   |   |--- Percent of Employed Civilians in the Wholesale Industry >  1.25
+|   |   |   |   |   |   |--- Percent of Foreign Born Population born in Asia <= 17.80
+|   |   |   |   |   |   |   |--- value: [96.05]
+|   |   |   |   |   |   |--- Percent of Foreign Born Population born in Asia >  17.80
+|   |   |   |   |   |   |   |--- value: [94.78]
+|   |   |   |   |--- Percent of Males over 16 that are Married >  62.15
+|   |   |   |   |   |--- value: [93.93]
+|   |   |--- Percent of Students who are Economically Disadvantaged >  14.15
+|   |   |   |--- Average In-District Expenditures per Pupil <= 14679.72
+|   |   |   |   |--- Percent of Housing Units Lacking Telephone Service <= 0.65
+|   |   |   |   |   |--- value: [88.79]
+|   |   |   |   |--- Percent of Housing Units Lacking Telephone Service >  0.65
+|   |   |   |   |   |--- Percent of Families with an Income between $25,000 and $34,999 <= 4.85
+|   |   |   |   |   |   |--- value: [93.88]
+|   |   |   |   |   |--- Percent of Families with an Income between $25,000 and $34,999 >  4.85
+|   |   |   |   |   |   |--- value: [91.37]
+|   |   |   |--- Average In-District Expenditures per Pupil >  14679.72
+|   |   |   |   |--- value: [95.18]
+|   |--- Percent of Students with High Needs >  36.30
+|   |   |--- Number of Students Enrolled in Grade 11 <= 40.50
+|   |   |   |--- value: [96.42]
+|   |   |--- Number of Students Enrolled in Grade 11 >  40.50
+|   |   |   |--- Percent of Students with High Needs <= 52.95
+|   |   |   |   |--- Percent of Population over 25 whose highest level of education is an Associate's Degree <= 5.40
+|   |   |   |   |   |--- value: [92.25]
+|   |   |   |   |--- Percent of Population over 25 whose highest level of education is an Associate's Degree >  5.40
+|   |   |   |   |   |--- Percent of Females over 16 that are have Never Married <= 29.35
+|   |   |   |   |   |   |--- Average Expenditures per Pupil <= 13807.75
+|   |   |   |   |   |   |   |--- Percent of N0n-Mortagaged Owners with Housing Costs between 15% and 19.9% of Household Income <= 9.85
+|   |   |   |   |   |   |   |   |--- value: [87.05]
+|   |   |   |   |   |   |   |--- Percent of N0n-Mortagaged Owners with Housing Costs between 15% and 19.9% of Household Income >  9.85
+|   |   |   |   |   |   |   |   |--- value: [89.33]
+|   |   |   |   |   |   |--- Average Expenditures per Pupil >  13807.75
+|   |   |   |   |   |   |   |--- value: [90.89]
+|   |   |   |   |   |--- Percent of Females over 16 that are have Never Married >  29.35
+|   |   |   |   |   |   |--- Percent of Families with all Parents In Labor Force <= 78.05
+|   |   |   |   |   |   |   |--- value: [88.36]
+|   |   |   |   |   |   |--- Percent of Families with all Parents In Labor Force >  78.05
+|   |   |   |   |   |   |   |--- value: [83.97]
+|   |   |   |--- Percent of Students with High Needs >  52.95
+|   |   |   |   |--- Percent of Families with an Income between $35,000 and $49,999 <= 11.45
+|   |   |   |   |   |--- Percent of Foreign Born Population born in Northern America <= 4.70
+|   |   |   |   |   |   |--- value: [84.29]
+|   |   |   |   |   |--- Percent of Foreign Born Population born in Northern America >  4.70
+|   |   |   |   |   |   |--- value: [88.51]
+|   |   |   |   |--- Percent of Families with an Income between $35,000 and $49,999 >  11.45
+|   |   |   |   |   |--- Average In-District Expenditures per Pupil <= 13795.59
+|   |   |   |   |   |   |--- value: [79.10]
+|   |   |   |   |   |--- Average In-District Expenditures per Pupil >  13795.59
+|   |   |   |   |   |   |--- value: [84.20]
+|--- Percent of Students with High Needs >  69.65
+|   |--- Percent of students who are Male <= 58.55
+|   |   |--- Average Salary <= 68782.50
+|   |   |   |--- value: [66.39]
+|   |   |--- Average Salary >  68782.50
+|   |   |   |--- value: [78.08]
+|   |--- Percent of students who are Male >  58.55
+|   |   |--- value: [52.07]

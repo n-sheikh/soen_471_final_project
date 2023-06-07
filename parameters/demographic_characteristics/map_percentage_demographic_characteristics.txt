@@ -1,0 +1,20 @@
+Label
+CS_DG_P_C_AJ1:RACE!!Total population!!One race!!White
+CS_DG_PC_AJ2:RACE!!Total population!!One race!!Black or African American
+CS_DG_PC_AJ3:RACE!!Total population!!One race!!American Indian and Alaska Native
+CS_DG_PC_AJ4:RACE!!Total population!!One race!!Asian
+CS_DG_P_C_AJ5:RACE!!Total population!!One race!!Native Hawaiian and Other Pacific Islander
+CS_DG_P_C_AJ6:RACE!!Total population!!Two or more races60
+CS_DG_P_C_AK1:SEX AND AGE!!Total population!!Under 5 years
+CS_DG_P_C_AK2:SEX AND AGE!!Total population!!5 to 9 years
+CS_DG_P_C_AK3:SEX AND AGE!!Total population!!10 to 14 years
+CS_DG_P_C_AK4:SEX AND AGE!!Total population!!15 to 19 years
+CS_DG_P_C_AK5:SEX AND AGE!!Total population!!20 to 24 years
+CS_DG_P_C_AK6:SEX AND AGE!!Total population!!25 to 34 years
+CS_DG_P_C_AK7:SEX AND AGE!!Total population!!35 to 44 years
+CS_DG_P_C_AK8:SEX AND AGE!!Total population!!45 to 54 years
+CS_DG_P_C_AK9:SEX AND AGE!!Total population!!55 to 59 years
+CS_DG_P_C_AK10:SEX AND AGE!!Total population!!60 to 64 years
+CS_DG_P_C_AK11:SEX AND AGE!!Total population!!65 to 74 years
+CS_DG_P_C_AK12:SEX AND AGE!!Total population!!75 to 84 years
+CS_DG_P_C_AK13:SEX AND AGE!!Total population!!85 years and over

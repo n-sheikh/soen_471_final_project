@@ -1,0 +1,11 @@
+DT LEN: 2
+|--- Percent of Students who are Economically Disadvantaged <= 26.15
+|   |--- Percent of Students who are Asian <= 6.00
+|   |   |--- value: [67.28]
+|   |--- Percent of Students who are Asian >  6.00
+|   |   |--- value: [86.53]
+|--- Percent of Students who are Economically Disadvantaged >  26.15
+|   |--- Percent of Students who are Economically Disadvantaged <= 42.80
+|   |   |--- value: [50.71]
+|   |--- Percent of Students who are Economically Disadvantaged >  42.80
+|   |   |--- value: [29.62]

@@ -1,0 +1,14 @@
+DT LEN: 3
+|--- Percent of Students who are Economically Disadvantaged <= 31.15
+|   |--- Percent of Students who are Economically Disadvantaged <= 16.50
+|   |   |--- value: [91.39]
+|   |--- Percent of Students who are Economically Disadvantaged >  16.50
+|   |   |--- value: [84.85]
+|--- Percent of Students who are Economically Disadvantaged >  31.15
+|   |--- Percent of Students who are Economically Disadvantaged <= 64.70
+|   |   |--- Percent of Foreign Born Population born in Europe <= 7.40
+|   |   |   |--- value: [72.01]
+|   |   |--- Percent of Foreign Born Population born in Europe >  7.40
+|   |   |   |--- value: [81.49]
+|   |--- Percent of Students who are Economically Disadvantaged >  64.70
+|   |   |--- value: [68.02]

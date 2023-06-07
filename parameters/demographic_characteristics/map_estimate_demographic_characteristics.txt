@@ -1,0 +1,4 @@
+Label
+CS_DG_V_NC_AG:SEX AND AGE!!Total population
+CS_DG_R_NC_AH:SEX AND AGE!!Total population!!Sex ratio (males per 100 females)
+CS_DG_V_NC_AI:SEX AND AGE!!Total population!!Median age (years)

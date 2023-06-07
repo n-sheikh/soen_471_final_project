@@ -1,0 +1,17 @@
+Feature,Tuned Decision Tree,Tuned Random Forest
+Percent of Students with High Needs,0.765590785312568,0.398486254413797
+Percent of Students who are Economically Disadvantaged,0.018336628211047,0.32294263195739
+Percent of students who are Male,0.109879047197488,0.049794715624486
+Average Class Size,0,0.030509820253082
+Number of Students Enrolled in Grade 11,0.025450906732734,0.012284738859467
+Percent of Students with Disabilities,0,0.010489940158311
+Percent of Students who are Asian,0,0.01025425165142
+School Accountability and Assistance Level,0,0.009140464033127
+Number of Students Enrolled in Grade 12,0,0.007621988328843
+Number of Students Enrolled in Grade 9,0,0.005315555024199
+Average Salary,0.034223295937203,0
+Average In-District Expenditures per Pupil,0.009600244794022,0
+Percent of Families with an Income between $35000 and $49999,0.008910166396233,0
+Percent of Population over 25 whose highest level of education is an Associate's Degree,0.006893003935489,0
+Percent of Housing Units Lacking Telephone Service,0.004063182133768,0
+Percent of Females over 16 that are have Never Married,0.003735921554805,0

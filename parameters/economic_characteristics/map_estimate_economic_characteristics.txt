@@ -1,0 +1,3 @@
+Label
+CS_EC_V_NC_AA:INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Median family income (dollars)
+CS_EC_V_NC_AB:INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Mean family income (dollars)

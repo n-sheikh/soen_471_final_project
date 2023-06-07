@@ -1,0 +1,66 @@
+CS_SC_P_NC_AT:HOUSEHOLDS BY TYPE!!Total households!!Married-couple family!!With own children of the householder under 18 years:
+HOUSEHOLDS BY TYPE!!Total households!!Male householder, no wife present, family!!With own children of the householder under 18 years:CS_SC_P_NC_AU:
+HOUSEHOLDS BY TYPE!!Total households!!Female householder, no husband present, family!!With own children of the householder under 18 years:CS_SC_P_NC_AV:
+CS_SC_P_C_AX1:MARITAL STATUS!!Males 15 years and over!!Never married
+CS_SC_P_C_AX2:MARITAL STATUS!!Males 15 years and over!!Now married, except separated
+CS_SC_P_C_AX3:MARITAL STATUS!!Males 15 years and over!!Separated
+CS_SC_P_C_AX4:MARITAL STATUS!!Males 15 years and over!!Widowed
+CS_SC_P_C_AX5:MARITAL STATUS!!Males 15 years and over!!Divorced
+CS_SC_P_C_AY1:MARITAL STATUS!!Females 15 years and over!!Never married
+CS_SC_P_C_AY2:MARITAL STATUS!!Females 15 years and over!!Now married, except separated
+CS_SC_P_C_AY3:MARITAL STATUS!!Females 15 years and over!!Separated
+CS_SC_P_C_AY4:MARITAL STATUS!!Females 15 years and over!!Widowed
+CS_SC_P_C_AY5:MARITAL STATUS!!Females 15 years and over!!Divorced
+CS_SC_P_C_AZ1:EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Less than 9th grade
+CS_SC_P_C_AZ2:EDUCATIONAL ATTAINMENT!!Population 25 years and over!!9th to 12th grade, no diploma
+CS_SC_P_C_AZ3:EDUCATIONAL ATTAINMENT!!Population 25 years and over!!High school graduate (includes equivalency)
+CS_SC_P_C_AZ4:EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Some college, no degree
+CS_SC_P_C_AZ5:EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Associate's degree
+CS_SC_P_C_AZ6:EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Bachelor's degree
+CS_SC_P_C_AZ7:EDUCATIONAL ATTAINMENT!!Population 25 years and over!!Graduate or professional degree
+CS_SC_P_NC_BA:VETERAN STATUS!!Civilian population 18 years and over!!Civilian veterans:
+CS_SC_P_NC_BB:DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Total Civilian Noninstitutionalized Population!!With a disability
+CS_SC_P_NC_BC:DISABILITY STATUS OF THE CIVILIAN NONINSTITUTIONALIZED POPULATION!!Under 18 years!!With a disability
+CS_SC_P_NC_BD:RESIDENCE 1 YEAR AGO!!Population 1 year and over!!Same house
+CS_SC_P_NC_BE:PLACE OF BIRTH!!Total population!!Foreign born
+CS_SC_P_NC_BF:U.S. CITIZENSHIP STATUS!!Foreign-born population!!Not a U.S. citizen
+CS_SC_P_NC_BG:COMPUTERS AND INTERNET USE!!Total households!!With a computer
+CS_SC_P_NC_BH:COMPUTERS AND INTERNET USE!!Total households!!With a broadband Internet subscription
+CS_SC_P_C_BI1:ANCESTRY!!Total population!!American
+CS_SC_P_C_BI2:ANCESTRY!!Total population!!Arab
+CS_SC_P_C_BI3:ANCESTRY!!Total population!!Czech
+CS_SC_P_C_BI4:ANCESTRY!!Total population!!Danish
+CS_SC_P_C_BI5:ANCESTRY!!Total population!!Dutch
+CS_SC_P_C_BI6:ANCESTRY!!Total population!!English:
+CS_SC_P_C_BI7:ANCESTRY!!Total population!!French (except Basque)
+CS_SC_P_C_BI8:ANCESTRY!!Total population!!French Canadian
+CS_SC_P_C_BI9:ANCESTRY!!Total population!!German
+CS_SC_P_C_BI10:ANCESTRY!!Total population!!Greek
+CS_SC_P_C_BI11:ANCESTRY!!Total population!!Hungarian
+CS_SC_P_C_BI12:ANCESTRY!!Total population!!Irish
+CS_SC_P_C_BI13:ANCESTRY!!Total population!!Italian
+CS_SC_P_C_BI14:ANCESTRY!!Total population!!Lithuanian
+CS_SC_P_C_BI15ANCESTRY!!Total population!!Norwegian
+CS_SC_P_C_BI16:ANCESTRY!!Total population!!Polish
+CS_SC_P_C_BI7:ANCESTRY!!Total population!!Portuguese
+CS_SC_P_C_BI18:ANCESTRY!!Total population!!Russian
+CS_SC_P_C_BI19:ANCESTRY!!Total population!!Scotch-Irish
+CS_SC_P_C_BI20:ANCESTRY!!Total population!!Scottish
+CS_SC_P_C_BI21:ANCESTRY!!Total population!!Slovak
+CS_SC_P_C_BI22:ANCESTRY!!Total population!!Subsaharan African
+CS_SC_P_C_BI23:ANCESTRY!!Total population!!Swedish
+CS_SC_P_C_BI24:ANCESTRY!!Total population!!Swiss
+CS_SC_P_C_BI25:ANCESTRY!!Total population!!Ukrainian
+CS_SC_P_C_BI26:ANCESTRY!!Total population!!Welsh
+CS_SC_P_C_BI27:ANCESTRY!!Total population!!West Indian (excluding Hispanic origin groups)
+CS_SC_P_C_BI28:ANCESTRY!!Total population!!Norwegian
+CS_SC_P_NC_BJ:"LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!Language other than English!!Speak English less than ""very well"""
+CS_SC_P_NC_BK:LANGUAGE SPOKEN AT HOME!!Population 5 years and over!!English only
+CS_SC_P_C_BL1:WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Europe
+CS_SC_P_C_BL2:WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Asia
+CS_SC_P_C_BL3:WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Africa
+CS_SC_P_C_BL4:WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Oceania
+CS_SC_P_C_BL5:WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Latin America
+CS_SC_P_C_BL6:WORLD REGION OF BIRTH OF FOREIGN BORN!!Foreign-born population, excluding population born at sea!!Northern America
+CS_SC_P_NC_BM:YEAR OF ENTRY!!Population born outside the United States!!Native!!Entered 2010 or later
+CS_SC_P_NC_BN:YEAR OF ENTRY!!Population born outside the United States!!Foreign born!!Entered 2010 or later

@@ -1,0 +1,14 @@
+DT LEN: 3
+|--- Percent of Students with High Needs <= 34.35
+|   |--- Percent of Students who are Asian <= 5.25
+|   |   |--- value: [530.96]
+|   |--- Percent of Students who are Asian >  5.25
+|   |   |--- Percent of Foreign Born Population born in Europe <= 63.45
+|   |   |   |--- value: [586.33]
+|   |   |--- Percent of Foreign Born Population born in Europe >  63.45
+|   |   |   |--- value: [699.50]
+|--- Percent of Students with High Needs >  34.35
+|   |--- Percent of Students who are Hispanic <= 43.80
+|   |   |--- value: [494.79]
+|   |--- Percent of Students who are Hispanic >  43.80
+|   |   |--- value: [420.86]

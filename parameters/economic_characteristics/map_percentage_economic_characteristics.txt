@@ -1,0 +1,32 @@
+Label
+CS_EC_P_NC_AC:EMPLOYMENT STATUS!!Civilian labor force!!Unemployment Rate
+CS_EC_P_NC_AD:EMPLOYMENT STATUS!!Own children of the householder 6 to 17 years!!All parents in family in labor force
+CS_EC_P_NC_AE1:OCCUPATION!!Civilian employed population 16 years and over!!Management, business, science, and arts occupations
+CS_EC_P_NC_AE2:OCCUPATION!!Civilian employed population 16 years and over!!Service occupations
+CS_EC_P_NC_AE3:OCCUPATION!!Civilian employed population 16 years and over!!Sales and office occupations
+CS_EC_P_NC_AE4:OCCUPATION!!Civilian employed population 16 years and over!!Natural resources, construction, and maintenance occupations
+CS_EC_P_NC_AE5:OCCUPATION!!Civilian employed population 16 years and over!!Production, transportation, and material moving occupations
+CS_EC_P_NC_AF1:INDUSTRY!!Civilian employed population 16 years and over!!Agriculture, forestry, fishing and hunting, and mining
+CS_EC_P_NC_AF2:INDUSTRY!!Civilian employed population 16 years and over!!Construction
+CS_EC_P_NC_AF3:INDUSTRY!!Civilian employed population 16 years and over!!Manufacturing
+CS_EC_P_NC_AF4:INDUSTRY!!Civilian employed population 16 years and over!!Wholesale trade
+CS_EC_P_NC_AF5:INDUSTRY!!Civilian employed population 16 years and over!!Retail trade
+CS_EC_P_NC_AF6:INDUSTRY!!Civilian employed population 16 years and over!!Transportation and warehousing, and utilities
+CS_EC_P_NC_AF7:INDUSTRY!!Civilian employed population 16 years and over!!Information:
+CS_EC_P_NC_AF8:INDUSTRY!!Civilian employed population 16 years and over!!Finance and insurance, and real estate and rental and leasing
+CS_EC_P_NC_AF9:INDUSTRY!!Civilian employed population 16 years and over!!Professional, scientific, and management, and administrative and waste management services
+CS_EC_P_NC_AF10:INDUSTRY!!Civilian employed population 16 years and over!!Educational services, and health care and social assistance
+CS_EC_P_NC_AF11:INDUSTRY!!Civilian employed population 16 years and over!!Arts, entertainment, and recreation, and accommodation and food services
+CS_EC_P_NC_AF12:INDUSTRY!!Civilian employed population 16 years and over!!Other services, except public administration
+CS_EC_P_NC_AF13:INDUSTRY!!Civilian employed population 16 years and over!!Public administration
+CS_EC_P_C_AG1:INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!Less than $10,000
+CS_EC_P_C_AG2:INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!$10,000 to $14,999
+CS_EC_P_C_AG3:INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!$15,000 to $24,999
+CS_EC_P_C_AG4:INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!$25,000 to $34,999
+CS_EC_P_C_AG5:INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!$35,000 to $49,999
+CS_EC_P_C_AG6:INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!$50,000 to $74,999
+CS_EC_P_C_AG7:INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!$75,000 to $99,999
+CS_EC_P_C_AG8:INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!$100,000 to $149,999
+CS_EC_P_C_AG9:INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!$150,000 to $199,999
+CS_EC_P_C_AG10:INCOME AND BENEFITS (IN 2017 INFLATION-ADJUSTED DOLLARS)!!Families!!$200,000 or more:family_income_above_200000
+CS_EC_P_NC_AF:PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL!!All families:_poverty_level

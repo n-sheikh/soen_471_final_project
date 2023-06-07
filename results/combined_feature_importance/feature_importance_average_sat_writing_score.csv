@@ -1,0 +1,14 @@
+Feature,Tuned Decision Tree,Tuned Random Forest
+Percent of Students with High Needs,0.522872649851244,0.384730147995699
+Percent of Students who are Economically Disadvantaged,0.040607069505184,0.208780506379321
+Percent of Students who are Asian,0.113261185180319,0.101548541334599
+Percent of Students who are Hispanic,0.105231359601854,0.052171448007157
+Percent of Students who are White,0,0.043627134868843
+Percent of students who are Male,0,0.017919321974915
+Percent of Population over 25 whose highest level of education is an Associates Degree',0.022031295680357,0.009088670435471
+Average Salary,0,0.006288237824285
+Number of Students Enrolled in Grade 9,0.018650409303768,0.006014002390942
+Average Expenditures per Pupil,0.024952032211961,0.005430537331271
+Percent of Females over 16 that are Divorced,0.018258490660796,0
+Percent of Non-Mortagaged Owners with Housing Costs between 20% and 24.9% of Household Income,0.016040219759457,0
+Percent of Students who are English Language Learners,0.015031851622433,0

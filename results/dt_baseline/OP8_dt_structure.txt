@@ -1,0 +1,377 @@
+DT LEN: 13
+|--- Percent of Students who are Economically Disadvantaged <= 17.60
+|   |--- Percent of Population Aged between 35 and 44 years <= 11.35
+|   |   |--- Percent of Employed Civilians with Sales and Office Occupations <= 20.95
+|   |   |   |--- Percent of Females over 16 that are Seperated <= 1.55
+|   |   |   |   |--- Percent of Families with an Income above $200,000 <= 1.90
+|   |   |   |   |   |--- value: [89.00]
+|   |   |   |   |--- Percent of Families with an Income above $200,000 >  1.90
+|   |   |   |   |   |--- value: [90.90]
+|   |   |   |--- Percent of Females over 16 that are Seperated >  1.55
+|   |   |   |   |--- value: [93.60]
+|   |   |--- Percent of Employed Civilians with Sales and Office Occupations >  20.95
+|   |   |   |--- Percent of Students who are Hispanic <= 2.55
+|   |   |   |   |--- Percent of Population with Greek Ancestry <= 0.30
+|   |   |   |   |   |--- Percent of Females over 16 that are Widowed <= 8.25
+|   |   |   |   |   |   |--- value: [86.40]
+|   |   |   |   |   |--- Percent of Females over 16 that are Widowed >  8.25
+|   |   |   |   |   |   |--- Number of Students Enrolled in Grade 1 <= 32.00
+|   |   |   |   |   |   |   |--- value: [87.50]
+|   |   |   |   |   |   |--- Number of Students Enrolled in Grade 1 >  32.00
+|   |   |   |   |   |   |   |--- value: [87.50]
+|   |   |   |   |--- Percent of Population with Greek Ancestry >  0.30
+|   |   |   |   |   |--- Percent of Population with Swiss Ancestry <= 0.30
+|   |   |   |   |   |   |--- value: [88.60]
+|   |   |   |   |   |--- Percent of Population with Swiss Ancestry >  0.30
+|   |   |   |   |   |   |--- value: [88.80]
+|   |   |   |--- Percent of Students who are Hispanic >  2.55
+|   |   |   |   |--- Number of Students Enrolled in Grade 4 <= 44.00
+|   |   |   |   |   |--- Percent of Employed Civilians in the Construction Industry <= 3.85
+|   |   |   |   |   |   |--- value: [82.60]
+|   |   |   |   |   |--- Percent of Employed Civilians in the Construction Industry >  3.85
+|   |   |   |   |   |   |--- value: [84.10]
+|   |   |   |   |--- Number of Students Enrolled in Grade 4 >  44.00
+|   |   |   |   |   |--- Percent of Housing Units Lacking Telephone Service <= 2.60
+|   |   |   |   |   |   |--- Percent of Student whose First Language is Not English <= 4.15
+|   |   |   |   |   |   |   |--- value: [87.80]
+|   |   |   |   |   |   |--- Percent of Student whose First Language is Not English >  4.15
+|   |   |   |   |   |   |   |--- Percent of Renters with a Gross Rent between 15% and 19.9%  percent of Household Income <= 2.35
+|   |   |   |   |   |   |   |   |--- value: [86.60]
+|   |   |   |   |   |   |   |--- Percent of Renters with a Gross Rent between 15% and 19.9%  percent of Household Income >  2.35
+|   |   |   |   |   |   |   |   |--- value: [87.10]
+|   |   |   |   |   |--- Percent of Housing Units Lacking Telephone Service >  2.60
+|   |   |   |   |   |   |--- Percent of Employed Civilians in the Wholesale Industry <= 1.50
+|   |   |   |   |   |   |   |--- value: [85.20]
+|   |   |   |   |   |   |--- Percent of Employed Civilians in the Wholesale Industry >  1.50
+|   |   |   |   |   |   |   |--- value: [83.90]
+|   |--- Percent of Population Aged between 35 and 44 years >  11.35
+|   |   |--- Percent of Population Aged between 5 and 9 years <= 6.45
+|   |   |   |--- Percent of Students with High Needs <= 30.80
+|   |   |   |   |--- Number of Students Enrolled in PK <= 67.00
+|   |   |   |   |   |--- Percent of Students who are Economically Disadvantaged <= 4.80
+|   |   |   |   |   |   |--- Percent of Students who are African American <= 2.15
+|   |   |   |   |   |   |   |--- School Accountability and Assistance Level <= 0.50
+|   |   |   |   |   |   |   |   |--- value: [95.60]
+|   |   |   |   |   |   |   |--- School Accountability and Assistance Level >  0.50
+|   |   |   |   |   |   |   |   |--- value: [96.20]
+|   |   |   |   |   |   |--- Percent of Students who are African American >  2.15
+|   |   |   |   |   |   |   |--- value: [94.10]
+|   |   |   |   |   |--- Percent of Students who are Economically Disadvantaged >  4.80
+|   |   |   |   |   |   |--- Number of Students Enrolled in Grade 4 <= 72.00
+|   |   |   |   |   |   |   |--- Percent of Population with Portuguese Ancestry <= 1.90
+|   |   |   |   |   |   |   |   |--- value: [93.80]
+|   |   |   |   |   |   |   |--- Percent of Population with Portuguese Ancestry >  1.90
+|   |   |   |   |   |   |   |   |--- value: [95.00]
+|   |   |   |   |   |   |--- Number of Students Enrolled in Grade 4 >  72.00
+|   |   |   |   |   |   |   |--- Percent of Students who are Economically Disadvantaged <= 10.05
+|   |   |   |   |   |   |   |   |--- Male to Female Sex Ratio <= 104.50
+|   |   |   |   |   |   |   |   |   |--- Number of Students Enrolled in Grade 8 <= 40.00
+|   |   |   |   |   |   |   |   |   |   |--- Percent of Males over 16 that are Married <= 54.15
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [90.90]
+|   |   |   |   |   |   |   |   |   |   |--- Percent of Males over 16 that are Married >  54.15
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [90.70]
+|   |   |   |   |   |   |   |   |   |--- Number of Students Enrolled in Grade 8 >  40.00
+|   |   |   |   |   |   |   |   |   |   |--- value: [91.30]
+|   |   |   |   |   |   |   |   |--- Male to Female Sex Ratio >  104.50
+|   |   |   |   |   |   |   |   |   |--- value: [90.10]
+|   |   |   |   |   |   |   |--- Percent of Students who are Economically Disadvantaged >  10.05
+|   |   |   |   |   |   |   |   |--- Percent of Students who are Hispanic <= 3.75
+|   |   |   |   |   |   |   |   |   |--- Percent of Population with German Ancestry <= 5.85
+|   |   |   |   |   |   |   |   |   |   |--- value: [92.10]
+|   |   |   |   |   |   |   |   |   |--- Percent of Population with German Ancestry >  5.85
+|   |   |   |   |   |   |   |   |   |   |--- value: [92.00]
+|   |   |   |   |   |   |   |   |--- Percent of Students who are Hispanic >  3.75
+|   |   |   |   |   |   |   |   |   |--- Percent of Females over 16 that are Seperated <= 2.40
+|   |   |   |   |   |   |   |   |   |   |--- value: [92.70]
+|   |   |   |   |   |   |   |   |   |--- Percent of Females over 16 that are Seperated >  2.40
+|   |   |   |   |   |   |   |   |   |   |--- value: [92.50]
+|   |   |   |   |--- Number of Students Enrolled in PK >  67.00
+|   |   |   |   |   |--- value: [86.80]
+|   |   |   |--- Percent of Students with High Needs >  30.80
+|   |   |   |   |--- Average Class Size <= 18.65
+|   |   |   |   |   |--- Average Class Size <= 18.15
+|   |   |   |   |   |   |--- Percent of Employed Civilians in the Retail Industry <= 8.50
+|   |   |   |   |   |   |   |--- value: [89.50]
+|   |   |   |   |   |   |--- Percent of Employed Civilians in the Retail Industry >  8.50
+|   |   |   |   |   |   |   |--- value: [89.70]
+|   |   |   |   |   |--- Average Class Size >  18.15
+|   |   |   |   |   |   |--- value: [90.60]
+|   |   |   |   |--- Average Class Size >  18.65
+|   |   |   |   |   |--- Percent of Population with French Canadian Ancestry <= 1.70
+|   |   |   |   |   |   |--- Percent of Males over 16 that have Never Married <= 41.25
+|   |   |   |   |   |   |   |--- value: [85.90]
+|   |   |   |   |   |   |--- Percent of Males over 16 that have Never Married >  41.25
+|   |   |   |   |   |   |   |--- value: [86.90]
+|   |   |   |   |   |--- Percent of Population with French Canadian Ancestry >  1.70
+|   |   |   |   |   |   |--- value: [89.40]
+|   |   |--- Percent of Population Aged between 5 and 9 years >  6.45
+|   |   |   |--- Number of Students Enrolled in Grade 4 <= 39.00
+|   |   |   |   |--- value: [89.00]
+|   |   |   |--- Number of Students Enrolled in Grade 4 >  39.00
+|   |   |   |   |--- Percent of Students who are Hispanic <= 2.90
+|   |   |   |   |   |--- Percent of Students who are African American <= 0.85
+|   |   |   |   |   |   |--- Percent of Students who are English Language Learners <= 4.45
+|   |   |   |   |   |   |   |--- Percent of Population with Russian Ancestry <= 0.75
+|   |   |   |   |   |   |   |   |--- value: [95.20]
+|   |   |   |   |   |   |   |--- Percent of Population with Russian Ancestry >  0.75
+|   |   |   |   |   |   |   |   |--- value: [95.10]
+|   |   |   |   |   |   |--- Percent of Students who are English Language Learners >  4.45
+|   |   |   |   |   |   |   |--- value: [94.80]
+|   |   |   |   |   |--- Percent of Students who are African American >  0.85
+|   |   |   |   |   |   |--- Percent of Students who are Native American <= 0.35
+|   |   |   |   |   |   |   |--- Percent of Families with an Income between $50,000 and $74,999 <= 17.30
+|   |   |   |   |   |   |   |   |--- value: [97.10]
+|   |   |   |   |   |   |   |--- Percent of Families with an Income between $50,000 and $74,999 >  17.30
+|   |   |   |   |   |   |   |   |--- Total Number of Students Enrolled <= 523.00
+|   |   |   |   |   |   |   |   |   |--- value: [96.30]
+|   |   |   |   |   |   |   |   |--- Total Number of Students Enrolled >  523.00
+|   |   |   |   |   |   |   |   |   |--- value: [96.70]
+|   |   |   |   |   |   |--- Percent of Students who are Native American >  0.35
+|   |   |   |   |   |   |   |--- value: [98.60]
+|   |   |   |   |--- Percent of Students who are Hispanic >  2.90
+|   |   |   |   |   |--- Percent of Multi-Racial, Non-Hispanic Students <= 9.90
+|   |   |   |   |   |   |--- Number of Students Enrolled in Grade 5 <= 90.50
+|   |   |   |   |   |   |   |--- Average Class Size <= 20.25
+|   |   |   |   |   |   |   |   |--- Percent of Population with Scotch-Irish Ancestry <= 0.55
+|   |   |   |   |   |   |   |   |   |--- Percent of Foreign Born Population born in Northern America <= 9.35
+|   |   |   |   |   |   |   |   |   |   |--- SC_CAT_NC_BR_PKK0102030405 <= 0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [93.90]
+|   |   |   |   |   |   |   |   |   |   |--- SC_CAT_NC_BR_PKK0102030405 >  0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [93.80]
+|   |   |   |   |   |   |   |   |   |--- Percent of Foreign Born Population born in Northern America >  9.35
+|   |   |   |   |   |   |   |   |   |   |--- value: [93.40]
+|   |   |   |   |   |   |   |   |--- Percent of Population with Scotch-Irish Ancestry >  0.55
+|   |   |   |   |   |   |   |   |   |--- Percent of Students who are Hispanic <= 3.80
+|   |   |   |   |   |   |   |   |   |   |--- value: [94.50]
+|   |   |   |   |   |   |   |   |   |--- Percent of Students who are Hispanic >  3.80
+|   |   |   |   |   |   |   |   |   |   |--- value: [94.70]
+|   |   |   |   |   |   |   |--- Average Class Size >  20.25
+|   |   |   |   |   |   |   |   |--- Percent of Students with Disabilities <= 12.45
+|   |   |   |   |   |   |   |   |   |--- Percent of Population with French Canadian Ancestry <= 10.35
+|   |   |   |   |   |   |   |   |   |   |--- value: [95.30]
+|   |   |   |   |   |   |   |   |   |--- Percent of Population with French Canadian Ancestry >  10.35
+|   |   |   |   |   |   |   |   |   |   |--- value: [94.90]
+|   |   |   |   |   |   |   |   |--- Percent of Students with Disabilities >  12.45
+|   |   |   |   |   |   |   |   |   |--- Number of Students Enrolled in Grade 4 <= 87.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [96.00]
+|   |   |   |   |   |   |   |   |   |--- Number of Students Enrolled in Grade 4 >  87.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [95.50]
+|   |   |   |   |   |   |--- Number of Students Enrolled in Grade 5 >  90.50
+|   |   |   |   |   |   |   |--- Percent of Employed Civilians with Natural Resource, Construction and Maintenance Occupations <= 7.40
+|   |   |   |   |   |   |   |   |--- value: [92.90]
+|   |   |   |   |   |   |   |--- Percent of Employed Civilians with Natural Resource, Construction and Maintenance Occupations >  7.40
+|   |   |   |   |   |   |   |   |--- value: [92.00]
+|   |   |   |   |   |--- Percent of Multi-Racial, Non-Hispanic Students >  9.90
+|   |   |   |   |   |   |--- value: [89.60]
+|--- Percent of Students who are Economically Disadvantaged >  17.60
+|   |--- Percent of Students who are African American <= 10.50
+|   |   |--- School Accountability and Assistance Level <= 0.50
+|   |   |   |--- Percent of Employed Civilians in Arts, Entertainment and Recreation or Accomodation and Food Services Industry <= 4.85
+|   |   |   |   |--- Percent of Families with an Income between $150,000 and $199,999 <= 4.75
+|   |   |   |   |   |--- value: [62.50]
+|   |   |   |   |--- Percent of Families with an Income between $150,000 and $199,999 >  4.75
+|   |   |   |   |   |--- Number of Students Enrolled in PK <= 19.50
+|   |   |   |   |   |   |--- value: [71.20]
+|   |   |   |   |   |--- Number of Students Enrolled in PK >  19.50
+|   |   |   |   |   |   |--- value: [69.00]
+|   |   |   |--- Percent of Employed Civilians in Arts, Entertainment and Recreation or Accomodation and Food Services Industry >  4.85
+|   |   |   |   |--- Percent of Students with High Needs <= 64.65
+|   |   |   |   |   |--- Percent of Population with Greek Ancestry <= 0.25
+|   |   |   |   |   |   |--- Average Class Size <= 20.00
+|   |   |   |   |   |   |   |--- Number of Students Enrolled in Grade 3 <= 41.50
+|   |   |   |   |   |   |   |   |--- Percent of Population over 25 whose highest level of education is between 9th and 12th Grade <= 11.80
+|   |   |   |   |   |   |   |   |   |--- Percent of Population with Dutch Ancestry <= 0.40
+|   |   |   |   |   |   |   |   |   |   |--- value: [81.30]
+|   |   |   |   |   |   |   |   |   |--- Percent of Population with Dutch Ancestry >  0.40
+|   |   |   |   |   |   |   |   |   |   |--- value: [81.70]
+|   |   |   |   |   |   |   |   |--- Percent of Population over 25 whose highest level of education is between 9th and 12th Grade >  11.80
+|   |   |   |   |   |   |   |   |   |--- value: [80.30]
+|   |   |   |   |   |   |   |--- Number of Students Enrolled in Grade 3 >  41.50
+|   |   |   |   |   |   |   |   |--- Percent of Students who are Economically Disadvantaged <= 20.60
+|   |   |   |   |   |   |   |   |   |--- Total Population <= 2843.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [82.40]
+|   |   |   |   |   |   |   |   |   |--- Total Population >  2843.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [82.90]
+|   |   |   |   |   |   |   |   |--- Percent of Students who are Economically Disadvantaged >  20.60
+|   |   |   |   |   |   |   |   |   |--- Percent of Students who are Hispanic <= 12.50
+|   |   |   |   |   |   |   |   |   |   |--- Percent of Males over 16 that are Married <= 63.55
+|   |   |   |   |   |   |   |   |   |   |   |--- Percent of Population who is Two or more races <= 2.30
+|   |   |   |   |   |   |   |   |   |   |   |   |--- Percent of Population Aged between 60 and 64 years <= 8.05
+|   |   |   |   |   |   |   |   |   |   |   |   |   |--- value: [89.40]
+|   |   |   |   |   |   |   |   |   |   |   |   |--- Percent of Population Aged between 60 and 64 years >  8.05
+|   |   |   |   |   |   |   |   |   |   |   |   |   |--- value: [89.00]
+|   |   |   |   |   |   |   |   |   |   |   |--- Percent of Population who is Two or more races >  2.30
+|   |   |   |   |   |   |   |   |   |   |   |   |--- value: [88.10]
+|   |   |   |   |   |   |   |   |   |   |--- Percent of Males over 16 that are Married >  63.55
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [86.60]
+|   |   |   |   |   |   |   |   |   |--- Percent of Students who are Hispanic >  12.50
+|   |   |   |   |   |   |   |   |   |   |--- Percent of Population with Greek Ancestry <= 0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [82.90]
+|   |   |   |   |   |   |   |   |   |   |--- Percent of Population with Greek Ancestry >  0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [85.50]
+|   |   |   |   |   |   |--- Average Class Size >  20.00
+|   |   |   |   |   |   |   |--- Percent of Students who are Asian <= 0.90
+|   |   |   |   |   |   |   |   |--- Percent of Employed Civilians with Service Occupations <= 19.00
+|   |   |   |   |   |   |   |   |   |--- value: [80.00]
+|   |   |   |   |   |   |   |   |--- Percent of Employed Civilians with Service Occupations >  19.00
+|   |   |   |   |   |   |   |   |   |--- value: [82.10]
+|   |   |   |   |   |   |   |--- Percent of Students who are Asian >  0.90
+|   |   |   |   |   |   |   |   |--- Number of Students Enrolled in Grade 2 <= 67.50
+|   |   |   |   |   |   |   |   |   |--- Percent of Population over 25 whose highest level of education is a Graduate or Professional Degree <= 17.55
+|   |   |   |   |   |   |   |   |   |   |--- Percent of Students who are Economically Disadvantaged <= 28.00
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [76.30]
+|   |   |   |   |   |   |   |   |   |   |--- Percent of Students who are Economically Disadvantaged >  28.00
+|   |   |   |   |   |   |   |   |   |   |   |--- Unemployment Rate <= 8.25
+|   |   |   |   |   |   |   |   |   |   |   |   |--- value: [76.90]
+|   |   |   |   |   |   |   |   |   |   |   |--- Unemployment Rate >  8.25
+|   |   |   |   |   |   |   |   |   |   |   |   |--- value: [77.00]
+|   |   |   |   |   |   |   |   |   |--- Percent of Population over 25 whose highest level of education is a Graduate or Professional Degree >  17.55
+|   |   |   |   |   |   |   |   |   |   |--- value: [78.40]
+|   |   |   |   |   |   |   |   |--- Number of Students Enrolled in Grade 2 >  67.50
+|   |   |   |   |   |   |   |   |   |--- value: [79.30]
+|   |   |   |   |   |--- Percent of Population with Greek Ancestry >  0.25
+|   |   |   |   |   |   |--- Percent of Students who are Native Hawaiian or Pacific Islander <= 0.05
+|   |   |   |   |   |   |   |--- Number of Students Enrolled in Grade 2 <= 55.00
+|   |   |   |   |   |   |   |   |--- Percent of Employed Civilians in the Information Industry <= 1.70
+|   |   |   |   |   |   |   |   |   |--- SC_CAT_NC_BR_PKK010203040506 <= 0.50
+|   |   |   |   |   |   |   |   |   |   |--- Percent of Housing Units with an Occupant per Room Ratio above 1.51 <= 0.90
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [77.60]
+|   |   |   |   |   |   |   |   |   |   |--- Percent of Housing Units with an Occupant per Room Ratio above 1.51 >  0.90
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [77.50]
+|   |   |   |   |   |   |   |   |   |--- SC_CAT_NC_BR_PKK010203040506 >  0.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [78.20]
+|   |   |   |   |   |   |   |   |--- Percent of Employed Civilians in the Information Industry >  1.70
+|   |   |   |   |   |   |   |   |   |--- Total Number of Students Enrolled <= 306.00
+|   |   |   |   |   |   |   |   |   |   |--- value: [78.80]
+|   |   |   |   |   |   |   |   |   |--- Total Number of Students Enrolled >  306.00
+|   |   |   |   |   |   |   |   |   |   |--- Total Population <= 9006.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [79.10]
+|   |   |   |   |   |   |   |   |   |   |--- Total Population >  9006.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [79.40]
+|   |   |   |   |   |   |   |--- Number of Students Enrolled in Grade 2 >  55.00
+|   |   |   |   |   |   |   |   |--- Percent of Multi-Racial, Non-Hispanic Students <= 5.20
+|   |   |   |   |   |   |   |   |   |--- Percent of Students who are English Language Learners <= 16.15
+|   |   |   |   |   |   |   |   |   |   |--- Total Population <= 15867.00
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [80.20]
+|   |   |   |   |   |   |   |   |   |   |--- Total Population >  15867.00
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [80.00]
+|   |   |   |   |   |   |   |   |   |--- Percent of Students who are English Language Learners >  16.15
+|   |   |   |   |   |   |   |   |   |   |--- value: [77.20]
+|   |   |   |   |   |   |   |   |--- Percent of Multi-Racial, Non-Hispanic Students >  5.20
+|   |   |   |   |   |   |   |   |   |--- Percent of Population with Polish Ancestry <= 3.35
+|   |   |   |   |   |   |   |   |   |   |--- value: [83.00]
+|   |   |   |   |   |   |   |   |   |--- Percent of Population with Polish Ancestry >  3.35
+|   |   |   |   |   |   |   |   |   |   |--- Percent of Population who is Asian <= 9.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [81.90]
+|   |   |   |   |   |   |   |   |   |   |--- Percent of Population who is Asian >  9.50
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [82.30]
+|   |   |   |   |   |   |--- Percent of Students who are Native Hawaiian or Pacific Islander >  0.05
+|   |   |   |   |   |   |   |--- Percent of Employed Civilians in Educational Services, Health Care or Social Assistance Industry <= 27.50
+|   |   |   |   |   |   |   |   |--- District Accountability and Assistance Level <= 0.50
+|   |   |   |   |   |   |   |   |   |--- Percent of Multi-Racial, Non-Hispanic Students <= 4.80
+|   |   |   |   |   |   |   |   |   |   |--- value: [75.90]
+|   |   |   |   |   |   |   |   |   |--- Percent of Multi-Racial, Non-Hispanic Students >  4.80
+|   |   |   |   |   |   |   |   |   |   |--- Percent of Population with Polish Ancestry <= 2.95
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [74.50]
+|   |   |   |   |   |   |   |   |   |   |--- Percent of Population with Polish Ancestry >  2.95
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [73.90]
+|   |   |   |   |   |   |   |   |--- District Accountability and Assistance Level >  0.50
+|   |   |   |   |   |   |   |   |   |--- Percent of Population with Ukranian Ancestry <= 0.85
+|   |   |   |   |   |   |   |   |   |   |--- value: [71.60]
+|   |   |   |   |   |   |   |   |   |--- Percent of Population with Ukranian Ancestry >  0.85
+|   |   |   |   |   |   |   |   |   |   |--- value: [72.20]
+|   |   |   |   |   |   |   |--- Percent of Employed Civilians in Educational Services, Health Care or Social Assistance Industry >  27.50
+|   |   |   |   |   |   |   |   |--- Number of Students Enrolled in Grade 5 <= 38.50
+|   |   |   |   |   |   |   |   |   |--- value: [73.50]
+|   |   |   |   |   |   |   |   |--- Number of Students Enrolled in Grade 5 >  38.50
+|   |   |   |   |   |   |   |   |   |--- Number of Students Enrolled in Grade 8 <= 60.50
+|   |   |   |   |   |   |   |   |   |   |--- value: [80.40]
+|   |   |   |   |   |   |   |   |   |--- Number of Students Enrolled in Grade 8 >  60.50
+|   |   |   |   |   |   |   |   |   |   |--- Percent of Employed Civilians with Production, Transportation and Material Moving Occupations <= 6.35
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [77.90]
+|   |   |   |   |   |   |   |   |   |   |--- Percent of Employed Civilians with Production, Transportation and Material Moving Occupations >  6.35
+|   |   |   |   |   |   |   |   |   |   |   |--- value: [78.40]
+|   |   |   |   |--- Percent of Students with High Needs >  64.65
+|   |   |   |   |   |--- Percent of Multi-Racial, Non-Hispanic Students <= 1.65
+|   |   |   |   |   |   |--- value: [80.90]
+|   |   |   |   |   |--- Percent of Multi-Racial, Non-Hispanic Students >  1.65
+|   |   |   |   |   |   |--- District Code <= 0.50
+|   |   |   |   |   |   |   |--- value: [62.00]
+|   |   |   |   |   |   |--- District Code >  0.50
+|   |   |   |   |   |   |   |--- value: [66.50]
+|   |   |--- School Accountability and Assistance Level >  0.50
+|   |   |   |--- Percent of Population with Danish Ancestry <= 0.05
+|   |   |   |   |--- Percent of Females over 16 that are Seperated <= 1.70
+|   |   |   |   |   |--- value: [91.90]
+|   |   |   |   |--- Percent of Females over 16 that are Seperated >  1.70
+|   |   |   |   |   |--- value: [95.00]
+|   |   |   |--- Percent of Population with Danish Ancestry >  0.05
+|   |   |   |   |--- Percent of Population with Danish Ancestry <= 0.45
+|   |   |   |   |   |--- value: [86.40]
+|   |   |   |   |--- Percent of Population with Danish Ancestry >  0.45
+|   |   |   |   |   |--- Percent of Population with Subsaharan African Ancestry <= 0.15
+|   |   |   |   |   |   |--- value: [90.20]
+|   |   |   |   |   |--- Percent of Population with Subsaharan African Ancestry >  0.15
+|   |   |   |   |   |   |--- Number of Students Enrolled in Grade 8 <= 50.50
+|   |   |   |   |   |   |   |--- value: [88.80]
+|   |   |   |   |   |   |--- Number of Students Enrolled in Grade 8 >  50.50
+|   |   |   |   |   |   |   |--- value: [89.30]
+|   |--- Percent of Students who are African American >  10.50
+|   |   |--- School Accountability and Assistance Level <= 0.50
+|   |   |   |--- Percent of Population that is Foreign Born <= 5.45
+|   |   |   |   |--- Average Class Size <= 16.35
+|   |   |   |   |   |--- Percent of Students who are White <= 57.65
+|   |   |   |   |   |   |--- Average Class Size <= 13.65
+|   |   |   |   |   |   |   |--- value: [80.40]
+|   |   |   |   |   |   |--- Average Class Size >  13.65
+|   |   |   |   |   |   |   |--- value: [80.80]
+|   |   |   |   |   |--- Percent of Students who are White >  57.65
+|   |   |   |   |   |   |--- value: [79.00]
+|   |   |   |   |--- Average Class Size >  16.35
+|   |   |   |   |   |--- Percent of Students who are African American <= 20.55
+|   |   |   |   |   |   |--- Percent of Students who are White <= 30.35
+|   |   |   |   |   |   |   |--- value: [74.20]
+|   |   |   |   |   |   |--- Percent of Students who are White >  30.35
+|   |   |   |   |   |   |   |--- value: [71.80]
+|   |   |   |   |   |--- Percent of Students who are African American >  20.55
+|   |   |   |   |   |   |--- Percent of students who are Male <= 50.35
+|   |   |   |   |   |   |   |--- value: [78.80]
+|   |   |   |   |   |   |--- Percent of students who are Male >  50.35
+|   |   |   |   |   |   |   |--- Percent of Males over 16 that are Widowed <= 1.85
+|   |   |   |   |   |   |   |   |--- value: [76.10]
+|   |   |   |   |   |   |   |--- Percent of Males over 16 that are Widowed >  1.85
+|   |   |   |   |   |   |   |   |--- value: [76.90]
+|   |   |   |--- Percent of Population that is Foreign Born >  5.45
+|   |   |   |   |--- Percent of Students with Disabilities <= 25.45
+|   |   |   |   |   |--- Number of Students Enrolled in Grade 7 <= 25.50
+|   |   |   |   |   |   |--- value: [67.10]
+|   |   |   |   |   |--- Number of Students Enrolled in Grade 7 >  25.50
+|   |   |   |   |   |   |--- Unemployment Rate <= 6.35
+|   |   |   |   |   |   |   |--- value: [68.30]
+|   |   |   |   |   |   |--- Unemployment Rate >  6.35
+|   |   |   |   |   |   |   |--- value: [68.20]
+|   |   |   |   |--- Percent of Students with Disabilities >  25.45
+|   |   |   |   |   |--- value: [76.40]
+|   |   |--- School Accountability and Assistance Level >  0.50
+|   |   |   |--- Number of Students Enrolled in Grade 2 <= 79.00
+|   |   |   |   |--- Percent of Males over 16 that are Separated <= 1.55
+|   |   |   |   |   |--- Percent of Population Aged between 15 and 19 years <= 2.85
+|   |   |   |   |   |   |--- value: [65.20]
+|   |   |   |   |   |--- Percent of Population Aged between 15 and 19 years >  2.85
+|   |   |   |   |   |   |--- Number of Students Enrolled in Grade 6 <= 59.50
+|   |   |   |   |   |   |   |--- Percent of Students who are White <= 31.70
+|   |   |   |   |   |   |   |   |--- value: [59.80]
+|   |   |   |   |   |   |   |--- Percent of Students who are White >  31.70
+|   |   |   |   |   |   |   |   |--- value: [59.90]
+|   |   |   |   |   |   |--- Number of Students Enrolled in Grade 6 >  59.50
+|   |   |   |   |   |   |   |--- value: [59.50]
+|   |   |   |   |--- Percent of Males over 16 that are Separated >  1.55
+|   |   |   |   |   |--- value: [53.60]
+|   |   |   |--- Number of Students Enrolled in Grade 2 >  79.00
+|   |   |   |   |--- Number of Students Enrolled in Grade 3 <= 75.50
+|   |   |   |   |   |--- Median Family Income <= 78402.50
+|   |   |   |   |   |   |--- value: [71.50]
+|   |   |   |   |   |--- Median Family Income >  78402.50
+|   |   |   |   |   |   |--- value: [72.60]
+|   |   |   |   |--- Number of Students Enrolled in Grade 3 >  75.50
+|   |   |   |   |   |--- value: [80.40]

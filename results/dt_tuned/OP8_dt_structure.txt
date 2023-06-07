@@ -1,0 +1,89 @@
+DT LEN: 5
+|--- Percent of Students who are Economically Disadvantaged <= 17.60
+|   |--- Percent of Population Aged between 35 and 44 years <= 11.35
+|   |   |--- Percent of Employed Civilians with Sales and Office Occupations <= 20.95
+|   |   |   |--- Percent of Females over 16 that are Seperated <= 1.55
+|   |   |   |   |--- Percent of Families with an Income above $200,000 <= 1.90
+|   |   |   |   |   |--- value: [89.00]
+|   |   |   |   |--- Percent of Families with an Income above $200,000 >  1.90
+|   |   |   |   |   |--- value: [90.90]
+|   |   |   |--- Percent of Females over 16 that are Seperated >  1.55
+|   |   |   |   |--- value: [93.60]
+|   |   |--- Percent of Employed Civilians with Sales and Office Occupations >  20.95
+|   |   |   |--- Percent of Students who are Hispanic <= 2.55
+|   |   |   |   |--- Percent of Population with Greek Ancestry <= 0.30
+|   |   |   |   |   |--- value: [87.13]
+|   |   |   |   |--- Percent of Population with Greek Ancestry >  0.30
+|   |   |   |   |   |--- value: [88.70]
+|   |   |   |--- Percent of Students who are Hispanic >  2.55
+|   |   |   |   |--- Number of Students Enrolled in Grade 4 <= 44.00
+|   |   |   |   |   |--- value: [83.60]
+|   |   |   |   |--- Number of Students Enrolled in Grade 4 >  44.00
+|   |   |   |   |   |--- value: [86.12]
+|   |--- Percent of Population Aged between 35 and 44 years >  11.35
+|   |   |--- Percent of Population Aged between 5 and 9 years <= 6.45
+|   |   |   |--- Percent of Students with High Needs <= 30.80
+|   |   |   |   |--- Number of Students Enrolled in PK <= 67.00
+|   |   |   |   |   |--- value: [92.85]
+|   |   |   |   |--- Number of Students Enrolled in PK >  67.00
+|   |   |   |   |   |--- value: [86.80]
+|   |   |   |--- Percent of Students with High Needs >  30.80
+|   |   |   |   |--- Average Class Size <= 18.65
+|   |   |   |   |   |--- value: [89.93]
+|   |   |   |   |--- Average Class Size >  18.65
+|   |   |   |   |   |--- value: [87.40]
+|   |   |--- Percent of Population Aged between 5 and 9 years >  6.45
+|   |   |   |--- Number of Students Enrolled in Grade 4 <= 39.00
+|   |   |   |   |--- value: [89.00]
+|   |   |   |--- Number of Students Enrolled in Grade 4 >  39.00
+|   |   |   |   |--- Percent of Students who are Hispanic <= 2.90
+|   |   |   |   |   |--- value: [96.44]
+|   |   |   |   |--- Percent of Students who are Hispanic >  2.90
+|   |   |   |   |   |--- value: [93.95]
+|--- Percent of Students who are Economically Disadvantaged >  17.60
+|   |--- Percent of Students who are African American <= 10.50
+|   |   |--- School Accountability and Assistance Level <= 0.50
+|   |   |   |--- Percent of Employed Civilians in Arts, Entertainment and Recreation or Accomodation and Food Services Industry <= 4.85
+|   |   |   |   |--- Percent of Employed Civilians in the Construction Industry <= 4.85
+|   |   |   |   |   |--- value: [62.50]
+|   |   |   |   |--- Percent of Employed Civilians in the Construction Industry >  4.85
+|   |   |   |   |   |--- value: [70.10]
+|   |   |   |--- Percent of Employed Civilians in Arts, Entertainment and Recreation or Accomodation and Food Services Industry >  4.85
+|   |   |   |   |--- Percent of Students with High Needs <= 64.65
+|   |   |   |   |   |--- value: [79.84]
+|   |   |   |   |--- Percent of Students with High Needs >  64.65
+|   |   |   |   |   |--- value: [69.80]
+|   |   |--- School Accountability and Assistance Level >  0.50
+|   |   |   |--- Number of Students Enrolled in Grade 1 <= 44.00
+|   |   |   |   |--- Percent of Population that have Lived in their Current Residence for Over a Year <= 87.55
+|   |   |   |   |   |--- value: [95.00]
+|   |   |   |   |--- Percent of Population that have Lived in their Current Residence for Over a Year >  87.55
+|   |   |   |   |   |--- value: [91.90]
+|   |   |   |--- Number of Students Enrolled in Grade 1 >  44.00
+|   |   |   |   |--- Percent of Population over 5 who speak English less than very well <= 2.95
+|   |   |   |   |   |--- value: [89.43]
+|   |   |   |   |--- Percent of Population over 5 who speak English less than very well >  2.95
+|   |   |   |   |   |--- value: [86.40]
+|   |--- Percent of Students who are African American >  10.50
+|   |   |--- School Accountability and Assistance Level <= 0.50
+|   |   |   |--- Percent of Population that is Foreign Born <= 5.45
+|   |   |   |   |--- Average Class Size <= 16.35
+|   |   |   |   |   |--- value: [80.07]
+|   |   |   |   |--- Average Class Size >  16.35
+|   |   |   |   |   |--- value: [75.56]
+|   |   |   |--- Percent of Population that is Foreign Born >  5.45
+|   |   |   |   |--- Percent of students who are Male <= 54.40
+|   |   |   |   |   |--- value: [67.87]
+|   |   |   |   |--- Percent of students who are Male >  54.40
+|   |   |   |   |   |--- value: [76.40]
+|   |   |--- School Accountability and Assistance Level >  0.50
+|   |   |   |--- Number of Students Enrolled in Grade 2 <= 79.00
+|   |   |   |   |--- Percent of Population Aged between 60 and 64 years <= 8.30
+|   |   |   |   |   |--- value: [61.10]
+|   |   |   |   |--- Percent of Population Aged between 60 and 64 years >  8.30
+|   |   |   |   |   |--- value: [53.60]
+|   |   |   |--- Number of Students Enrolled in Grade 2 >  79.00
+|   |   |   |   |--- Number of Students Enrolled in Grade 3 <= 75.50
+|   |   |   |   |   |--- value: [72.05]
+|   |   |   |   |--- Number of Students Enrolled in Grade 3 >  75.50
+|   |   |   |   |   |--- value: [80.40]

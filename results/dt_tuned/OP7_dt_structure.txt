@@ -1,0 +1,47 @@
+DT LEN: 4
+|--- Percent of Students who are Economically Disadvantaged <= 30.50
+|   |--- Percent of Students who are Economically Disadvantaged <= 10.50
+|   |   |--- Average Class Size <= 17.65
+|   |   |   |--- Percent of Employed Civilians in the Construction Industry <= 3.05
+|   |   |   |   |--- value: [82.40]
+|   |   |   |--- Percent of Employed Civilians in the Construction Industry >  3.05
+|   |   |   |   |--- value: [70.50]
+|   |   |--- Average Class Size >  17.65
+|   |   |   |--- Percent of Students with Disabilities <= 17.20
+|   |   |   |   |--- value: [95.62]
+|   |   |   |--- Percent of Students with Disabilities >  17.20
+|   |   |   |   |--- value: [91.87]
+|   |--- Percent of Students who are Economically Disadvantaged >  10.50
+|   |   |--- Number of Students Enrolled in Grade 1 <= 57.50
+|   |   |   |--- Percent of Population Aged between 55 and 59 years <= 6.90
+|   |   |   |   |--- value: [86.76]
+|   |   |   |--- Percent of Population Aged between 55 and 59 years >  6.90
+|   |   |   |   |--- value: [92.65]
+|   |   |--- Number of Students Enrolled in Grade 1 >  57.50
+|   |   |   |--- Percent of Students who are Native American <= 0.35
+|   |   |   |   |--- value: [87.43]
+|   |   |   |--- Percent of Students who are Native American >  0.35
+|   |   |   |   |--- value: [80.55]
+|--- Percent of Students who are Economically Disadvantaged >  30.50
+|   |--- Percent of Population with Italian Ancestry <= 11.75
+|   |   |--- Percent of Students with High Needs <= 82.50
+|   |   |   |--- Percent of Students with Disabilities <= 24.25
+|   |   |   |   |--- value: [80.61]
+|   |   |   |--- Percent of Students with Disabilities >  24.25
+|   |   |   |   |--- value: [68.60]
+|   |   |--- Percent of Students with High Needs >  82.50
+|   |   |   |--- Number of Students Enrolled in PK <= 10.00
+|   |   |   |   |--- value: [73.58]
+|   |   |   |--- Number of Students Enrolled in PK >  10.00
+|   |   |   |   |--- value: [57.70]
+|   |--- Percent of Population with Italian Ancestry >  11.75
+|   |   |--- Percent of Students who are White <= 31.85
+|   |   |   |--- Percent of Students who are Hispanic <= 94.70
+|   |   |   |   |--- value: [93.07]
+|   |   |   |--- Percent of Students who are Hispanic >  94.70
+|   |   |   |   |--- value: [90.13]
+|   |   |--- Percent of Students who are White >  31.85
+|   |   |   |--- Number of Students Enrolled in Grade 5 <= 26.50
+|   |   |   |   |--- value: [82.28]
+|   |   |   |--- Number of Students Enrolled in Grade 5 >  26.50
+|   |   |   |   |--- value: [86.57]
